@@ -1,0 +1,7 @@
+C:\Users\prataps\source\repos\data-management\MSSQLServerLibrary\bin\Release\netcoreapp3.0\MSSQLServerLibrary.deps.json
+C:\Users\prataps\source\repos\data-management\MSSQLServerLibrary\bin\Release\netcoreapp3.0\MSSQLServerLibrary.dll
+C:\Users\prataps\source\repos\data-management\MSSQLServerLibrary\bin\Release\netcoreapp3.0\MSSQLServerLibrary.pdb
+C:\Users\prataps\source\repos\data-management\MSSQLServerLibrary\obj\Release\netcoreapp3.0\MSSQLServerLibrary.AssemblyInfoInputs.cache
+C:\Users\prataps\source\repos\data-management\MSSQLServerLibrary\obj\Release\netcoreapp3.0\MSSQLServerLibrary.AssemblyInfo.cs
+C:\Users\prataps\source\repos\data-management\MSSQLServerLibrary\obj\Release\netcoreapp3.0\MSSQLServerLibrary.dll
+C:\Users\prataps\source\repos\data-management\MSSQLServerLibrary\obj\Release\netcoreapp3.0\MSSQLServerLibrary.pdb

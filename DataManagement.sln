@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataManagement", "DataManagement\DataManagement.csproj", "{EDD0C980-B61B-41BF-A924-0585C8827CA7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DBLibrary", "DBLibrary\DBLibrary.csproj", "{3D0FB238-AA91-47A4-B6B2-18DAA334B33E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDD0C980-B61B-41BF-A924-0585C8827CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDD0C980-B61B-41BF-A924-0585C8827CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDD0C980-B61B-41BF-A924-0585C8827CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDD0C980-B61B-41BF-A924-0585C8827CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D0FB238-AA91-47A4-B6B2-18DAA334B33E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D0FB238-AA91-47A4-B6B2-18DAA334B33E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D0FB238-AA91-47A4-B6B2-18DAA334B33E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D0FB238-AA91-47A4-B6B2-18DAA334B33E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {888FE972-BC25-4C42-99D7-5E00C88BD503}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\prataps\source\repos\data-management\MSSQLServerLibrary\bin\Debug\netcoreapp3.0\DBLibrary.deps.json
+C:\Users\prataps\source\repos\data-management\MSSQLServerLibrary\bin\Debug\netcoreapp3.0\DBLibrary.dll
+C:\Users\prataps\source\repos\data-management\MSSQLServerLibrary\bin\Debug\netcoreapp3.0\DBLibrary.pdb
+C:\Users\prataps\source\repos\data-management\MSSQLServerLibrary\obj\Debug\netcoreapp3.0\DBLibrary.AssemblyInfoInputs.cache
+C:\Users\prataps\source\repos\data-management\MSSQLServerLibrary\obj\Debug\netcoreapp3.0\DBLibrary.AssemblyInfo.cs
+C:\Users\prataps\source\repos\data-management\MSSQLServerLibrary\obj\Debug\netcoreapp3.0\DBLibrary.dll
+C:\Users\prataps\source\repos\data-management\MSSQLServerLibrary\obj\Debug\netcoreapp3.0\DBLibrary.pdb
+C:\Users\prataps\source\repos\data-management\DBLibrary\bin\Debug\netcoreapp3.0\DBLibrary.deps.json
+C:\Users\prataps\source\repos\data-management\DBLibrary\bin\Debug\netcoreapp3.0\DBLibrary.dll
+C:\Users\prataps\source\repos\data-management\DBLibrary\bin\Debug\netcoreapp3.0\DBLibrary.pdb
+C:\Users\prataps\source\repos\data-management\DBLibrary\obj\Debug\netcoreapp3.0\DBLibrary.AssemblyInfoInputs.cache
+C:\Users\prataps\source\repos\data-management\DBLibrary\obj\Debug\netcoreapp3.0\DBLibrary.AssemblyInfo.cs
+C:\Users\prataps\source\repos\data-management\DBLibrary\obj\Debug\netcoreapp3.0\DBLibrary.dll
+C:\Users\prataps\source\repos\data-management\DBLibrary\obj\Debug\netcoreapp3.0\DBLibrary.pdb
+C:\Users\prataps\source\repos\data-management\DBLibrary\obj\Debug\netcoreapp3.0\DBLibrary.csprojAssemblyReference.cache
